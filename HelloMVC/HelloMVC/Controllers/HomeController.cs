@@ -6,7 +6,7 @@ namespace HelloMVC.Controllers
     {
         public ViewResult Index()
         {
-            return null;
+            return View();
         }
     }
 }
