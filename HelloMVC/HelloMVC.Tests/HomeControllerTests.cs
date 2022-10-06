@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.Web.Mvc;
 using ViewResult = Microsoft.AspNetCore.Mvc.ViewResult;
 
-namespace HelloMVC.Tests
+namespace HelloMVC.Tests;
 
 
     public class HomeControllerTests
